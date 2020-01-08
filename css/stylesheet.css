@@ -1,0 +1,67 @@
+body {
+	margin: 0;
+	background-color: #060606;
+    background-image: url(../img/background_ep_autoimune.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+ 
+
+  
+}
+
+#banner h1 {
+		margin: 0;
+	    display: flex;
+        display: -webkit-flex;
+        justify-content: center;
+        align-items: center;
+        padding: 30px 70px 30px 70px;
+        
+}
+
+#musicas-videos{
+	display: block;
+	text-align: center;
+	
+}
+
+iframe {
+	border: hidden;
+}
+
+#links-uteis {
+	text-align: center;
+
+}
+
+#links-uteis nav ul {
+	padding: 10px 0 10px 0;
+}
+
+#links-uteis nav ul li {
+	display: inline-block;
+	width: 50px
+
+}
+
+footer {
+    position: relative;
+    padding: 10px 0 10px 0;
+    height: 40px;
+   
+}
+
+#copyright {
+	background-color: rgba(0, 0, 0, .5);
+	text-align: center;
+	color: #ffffff;
+	bottom: 50px;
+
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+
+}
